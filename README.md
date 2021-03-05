@@ -15,7 +15,7 @@ This is how it looks and you can try it.
 * npm i
 * npm start
 
-or go to [TodoApp](https://clever-torvalds-c2a003.netlify.app/)
+or go to [TodoApp](https://cocky-hawking-96fc29.netlify.app/)
 
 ![repoimg](https://res.cloudinary.com/dw8xidhnh/image/upload/v1614905493/portfolio/Captura_de_pantalla_de_2021-03-04_18-51-00_awf5u8.png)
 
